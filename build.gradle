@@ -8,6 +8,7 @@ node {
     	version = "18.3.0"  
     	npmVersion = "8.11.0" 
 }
+gradle wrapper --gradle-version=5.0
 
 //declare a build task
 task build
